@@ -1,0 +1,22 @@
+<div class="div2">
+    <h2>Add Study Set</h2>
+
+<form action="addStudySet" method="POST">
+  <label for="url">Link to the study set on Quizlet:</label>
+  <input type="text" value="" name="url" id="url" style="width:100%"><br>
+
+  <label for="name">Study Set Name</label>
+  <input type="text" value="" name="name" id="name" style="width:100%"><br>
+  <input type="submit" value="Add Study Set">
+</form> 
+<body>
+  <script>
+    function main() {
+      const mcHeader = document.getElementById("multipleChoiceHeader");
+      mcHeader.style = "display:none";
+    }
+    document.addEventListener("DOMContentLoaded", main);
+  </script>
+    {{{body}}}
+</body>
+</div>

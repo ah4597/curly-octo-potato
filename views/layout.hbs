@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <base href="/">
+  <link rel="stylesheet" type="text/css" href="css/main.css" />
+  <title>
+    Bootleg Quizlet
+  </title>
+  <h1 style="text-align: center;">Bootleg Quizlet</h1>
+</head>
+
+<body>
+  <div class="div1">
+    <ul>
+      <li class="li1"><a class="a1" href="/">Home</a></li>
+      <li class="li1"><a class="a1" href="/addStudySet">Add Study Set</a></li>
+      
+      <li class="li1" style="float:right" id="multipleChoiceHeader">
+        <a class="a1">Multiple Choice</a>
+        <label class="switch" style="">
+          <input type="checkbox" id="toggleSwitch">
+          <span class="slider round"></span>
+        </label>
+      </li>
+      {{{body}}}
+    </ul>
+  </div>
+  <text style="display:none" id="mode">shortAnswer</text>
+</body>
+
+</html>

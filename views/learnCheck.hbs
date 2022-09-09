@@ -1,0 +1,47 @@
+<div class="div2" id="div2">
+    <h2>Learn -- {{{name}}}</h2>
+<h3>Correct:</h3>
+<h4>{{{correctTerm}}}</h4>
+<h4>{{{correctDefinition}}}</h4>
+<h3>You said: </h3>
+<h4>{{{answer}}}</h4>
+
+<form method="POST" id="check">
+    <button id="correct" name="option" value="correct">I was correct.</button>
+    <button id="next" name="option" value="next">Next</button>
+    {{!-- <button id="correctAdd" name="option" value="correctAdd">I was correct. Add this as an alternative answer.</button> --}}
+    
+    <input type="text" id="correctDefinition", name="correctDefinition" value="{{{correctDefinition}}}" style="display:none">
+    <input type="text" id="correctTerm", name="correctTerm" value="{{{correctTerm}}}" style="display:none">
+    <input type="text" id="answer", name="answer" value="{{{answer}}}" style="display:none">
+    <input type="text" id="answerMode", name="answerMode" value="sa" style="display:none">
+</form>
+    
+<body>
+    <script>
+        function main() {
+            const toggleSwitch = document.getElementById("toggleSwitch");
+            const mode = document.getElementById("answerMode");
+            if("{{{answerMode}}}" == "sa") {
+                mode.value = "sa";
+                toggleSwitch.checked = false;
+            } else {
+                mode.value = "mc";
+                toggleSwitch.checked = true;
+            } 
+
+            
+            toggleSwitch.onclick = (evt) => {
+                if(toggleSwitch.checked) {
+                    mode.value = "mc";
+                } else {
+                    mode.value = "sa";
+                }
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', main);
+    </script>
+
+</body>
+</div>

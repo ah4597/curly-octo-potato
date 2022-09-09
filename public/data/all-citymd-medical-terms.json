@@ -1,0 +1,1778 @@
+[
+    {
+        "term": "superior",
+        "definition": "situated above or higher than another part",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "inferior",
+        "definition": "located beneath or directed downward",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "distal",
+        "definition": "located far from a point of reference",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "proximal",
+        "definition": "located nearer to a point of reference",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "volar",
+        "definition": "pertaining to the palm of the hand or the sole of the foot",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "palmar",
+        "definition": "pertaining to the palm of the hand",
+        "checks": 1,
+        "alt_definitions": []
+    },
+    {
+        "term": "dorsal",
+        "definition": "near the back or upper surface of the body",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "ventral",
+        "definition": "close to the anterior or abdominal aspect or the lower surface of the body",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "plantar",
+        "definition": "relating to the sole of the foot",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "anterior",
+        "definition": "located near the front or on the central surface of the body",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "posterior",
+        "definition": "located behind or on the dorsal surface of the body",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "lateral",
+        "definition": "pertaining to or directed to a side",
+        "checks": 1,
+        "alt_definitions": []
+    },
+    {
+        "term": "medial",
+        "definition": "situated near the middle or on the median plane",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "supine",
+        "definition": "lying on the back with the face and palms upward",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "prone",
+        "definition": "lying flat with the face downward",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "unilateral",
+        "definition": "affecting or confined to one side only",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "bilateral",
+        "definition": "occurring on our involving both sides of a part",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "superficial",
+        "definition": "existing or occurring on the surface or immediately beneath it",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "-itis",
+        "definition": "inflammation or disease of something specified",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Dys-",
+        "definition": "abnormal, difficult or impaired",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Hem-",
+        "definition": "pertaining to blood",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Gastro-",
+        "definition": "pertaining to the stomach",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "-uria",
+        "definition": "presence of a specified substance in urine",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "-phagia",
+        "definition": "eating or swallowing",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "-algia",
+        "definition": "denoting pain in a specified part of the body",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Poly-",
+        "definition": "More than usual, excessive or abnormal amount",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "A-",
+        "definition": "abnormal absence or suppression",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Tachy-",
+        "definition": "Rapid, accelerated rate",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Brady-",
+        "definition": "Slow, decreased rate",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Intra-",
+        "definition": "within or inside something",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Inter-",
+        "definition": "In between or among layers",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Oto-",
+        "definition": "pertaining to the ear",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Ophthalm-",
+        "definition": "pertaining to the eye",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Chole-",
+        "definition": "indicating bile or gallbladder",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Cyst-",
+        "definition": "bladder or sac",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "-ectomy",
+        "definition": "surgical removal of a specified part of the body",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Adeno-",
+        "definition": "gland or glandular",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "-rhea",
+        "definition": "Flow, discharge",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Hypo-",
+        "definition": "below, beneath, underneath or less than normal",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Hyper-",
+        "definition": "Above, over or in excess",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Acute",
+        "definition": "Rapid onset followed by a short severe course",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Chronic",
+        "definition": "Developing slowly and of long duration with frequent recurrence",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Localized",
+        "definition": "Restricted, focal or limited to a specific part",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Diffuse",
+        "definition": "Widely dispersed, spread out, not limited, generalized",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Intermittent",
+        "definition": "Occurring occasionally or at regular or irregular intervals",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Recurrent",
+        "definition": "Occurring periodically or appearing repeatedly",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Febrile",
+        "definition": "Having a fever",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Fever",
+        "definition": "Abnormally high body temperature (oral temperature > 99.5 F or ear temperature > 100.4 F)",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Night Sweats",
+        "definition": "Excessive sweating during sleep",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Malaise",
+        "definition": "Feeling of general discomfort or uneasiness",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Fatigue",
+        "definition": "State of physical or mental weakness or tiredness",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Diaphoresis",
+        "definition": "Excessive sweating",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Myalgia",
+        "definition": "Muscle pain or body ache",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Inflammation",
+        "definition": "Localized reaction of a tissue to irritation or injury, characterized by pain, redness and swelling",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "BMI",
+        "definition": "Body Mass Index, ratio of weight to height used to determine a person's nutritional level (underweight or obese)",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "SpO2",
+        "definition": "Saturation level of oxygen in blood, determined via pulse oximetry by placing a device on the finger",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Influenza",
+        "definition": "The flu, caused by a virus typically transmitted through the air, characterized by fever, chills, body aches and URI (upper respiratory tract infection) symptoms",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Viral Syndrome",
+        "definition": "Viral illness with a combination of constitutional and respiratory symptoms",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Cornea",
+        "definition": "Transparent front part of the eye",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Pupil",
+        "definition": "Hole or aperture located in the center of the iris",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Iris",
+        "definition": "Circular, colored portion of the eye responsible for controlling the size of the pupil",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Conjunctiva",
+        "definition": "Thin layer covering the inside of the eyelids and the sclera (white portion of the eye)",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Eyelid",
+        "definition": "Thin fold of skin that covers and protects the eye",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Sclera",
+        "definition": "Opaque, white, fibrous, protective, outer layer of the eye",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Retina",
+        "definition": "Innermost light sensitive layer of the eye",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Lens",
+        "definition": "Transparent elastic curved structure behind the iris that helps in focusing light on the retina",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Erythema",
+        "definition": "Redness of the outer covering layer",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Edema",
+        "definition": "Abnormal fluid accumulation beneath the skin, leading to swelling",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Ecchymosis",
+        "definition": "Bruising or discoloration of the outer covering layer",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Discharge",
+        "definition": "Secretion of fluid from certain parts of the body",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Injection",
+        "definition": "Red discoloration of the eye",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Photophobia",
+        "definition": "Pain or discomfort in the eyes when looking at light",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Conjunctivitis (pink eye)",
+        "definition": "Inflammation or infection of the conjunctiva, characterized by redness and often discharge",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Tympanic membrane (TM)",
+        "definition": "Eardrum",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Auricle",
+        "definition": "Pinna or outer projecting portion of the ear",
+        "checks": 1,
+        "alt_definitions": []
+    },
+    {
+        "term": "Ear canal",
+        "definition": "Narrow, tube-like passage through which sound enters the ear",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "External ear",
+        "definition": "Outer portion of the ear, including the auricle and the canal",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Eustachian tube",
+        "definition": "Auditory tube or a narrow channel connecting the middle ear and the nasopharynx",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Nasal Septum",
+        "definition": "Partition of bone and cartilage between the nasal cavities",
+        "checks": 1,
+        "alt_definitions": []
+    },
+    {
+        "term": "Sinus",
+        "definition": "Air-filled cavities in the bones of the forehead and face",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Frontal sinuses",
+        "definition": "Pair of air-filled cavities in the frontal bone of the skull",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Maxillary sinuses",
+        "definition": "Pair of air-filled cavities in the maxillary bone of the skull",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "pharynx",
+        "definition": "area at the back of the mouth, extending from the nasal cavity to the larynx",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Tonsils",
+        "definition": "Two oval-shaped masses of lymphoid tissue at the back of the throat between the mouth and the pharynx",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Uvula",
+        "definition": "small, conical, fleshy mass of tissue suspended from the center of the soft palate",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Gingiva",
+        "definition": "Gums, enveloping the teeth",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Effusion",
+        "definition": "Seepage of fluid into a body cavity or tissue",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Exudate",
+        "definition": "Fluid or pus that has seeped out of blood vessels, tissues, or organs due to inflammation",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Tonsillar Exudates",
+        "definition": "White pus deposits on the tonsils",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Bulging TM",
+        "definition": "Occurs due to fluid collection in the middle ear cavity",
+        "checks": 1,
+        "alt_definitions": []
+    },
+    {
+        "term": "Cerumen",
+        "definition": "Earwax present in the ear canal",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Post Nasal Drip",
+        "definition": "Accumulation of excess mucous in the throat or the back of the nose, produced by the nasal mucosa",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Tinnitus",
+        "definition": "Ringing sound within the ear",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Vertigo",
+        "definition": "Type of dizziness involving the sensation of spinning around",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Dysphagia",
+        "definition": "Difficulty or inability to sallow (rare in urgent care setup)",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Odynophagia",
+        "definition": "Pain or discomfort in swallowing, usually occurring due to throat infections",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Otitis Media",
+        "definition": "Inflammation of the middle ear due to infection",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Otitis Externa (Swimmer's Ear)",
+        "definition": "Inflammation of the outer ear and ear canal due to infection",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Otalgia",
+        "definition": "Earache or pain in the ear",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Otorrhea",
+        "definition": "Discharge from the ear",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Pharyngitis",
+        "definition": "Inflammation of the throat due to viral or bacterial infections",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Tonsilitis",
+        "definition": "Infection, inflammation and swelling of the tonsils",
+        "checks": 1,
+        "alt_definitions": []
+    },
+    {
+        "term": "Sinusitis",
+        "definition": "Inflammation of the mucous membrane lining the sinuses due to infection",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Rhinorrhea",
+        "definition": "Runny nose or persistent watery mucus discharge from the nose",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Congestion",
+        "definition": "Narrowing of passages due to swollen membranes from inflamed blood vessels",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Epistaxis",
+        "definition": "Nosebleed or hemorrhage from the nose",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Thorax",
+        "definition": "Chest, part of the body between the neck and the abdomen",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Cardiac",
+        "definition": "Pertaining to the heart",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Costal",
+        "definition": "Pertaining to the ribs",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Sternum",
+        "definition": "Breastbone, long flat bone present in the middle of the anterior wall of the thorax",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Vasculature",
+        "definition": "Arrangement of blood vessels",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Brachial Artery",
+        "definition": "Major blood vessel of the upper arm",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Radial Artery",
+        "definition": "Main artery at the lateral part of the wrist proximal to the thumb, where a pulse is usually taken",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Syncope",
+        "definition": "Fainting or loss of consciousness resulting from insufficient blood flow to the brain",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Palpitations",
+        "definition": "Sensation of an abnormally fast heartbeat or with an irregular rate",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Arrhythmia",
+        "definition": "Abnormal or irregular heartbeat",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Tachycardia",
+        "definition": "Heart Rate exceeding the normal range (resting heart rate >100 bpm).",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Bradycardia",
+        "definition": "Slow heart rate below the normal range (resting heart rate <60 bpm).",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Murmurs",
+        "definition": "Pathologic audible heart sounds produced as a result of turbulent blood flow",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Myocardial Infarction",
+        "definition": "heart attack or injury to the heart muscle due to improper blood flow to the heart",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Atypical Chest pain",
+        "definition": "chest pain that is sharp, sudden, random and short-lived",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Atrial fibrillation",
+        "definition": "abnormal rapid irregular heartbeat (like a drum with no rhythm)",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Hypertension",
+        "definition": "long-standing high blood pressure, reading above 140/90mm Hg, associated with a chronic underlying cause",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Hypotension",
+        "definition": "Long-standing low blood pressure, reading below 90/60 mm Hg",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Hypercholesterolemia",
+        "definition": "Higher than normal levels of cholesterol in the blood",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Pulmonary",
+        "definition": "Pertaining to the lungs",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Larynx",
+        "definition": "Voice box, air passage between the lower pharynx and the trachea containing the vocal chords",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Trachea",
+        "definition": "Windpipe, tubed airway extending from the larynx into the thorax eventually dividing into bronchi",
+        "checks": 1,
+        "alt_definitions": []
+    },
+    {
+        "term": "Bronchi",
+        "definition": "Two main branches of the trachea leading into the lungs",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Alveoli",
+        "definition": "Small air sacs or cavities in the lungs where the exchange of gases takes place",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Sputum",
+        "definition": "Phlegm, coughed up mass of salivary matter and mucous",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Inspiration",
+        "definition": "Inhalation of air into the lungs or to breath in",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Expiration",
+        "definition": "Exhalation of air from the lungs or to breathe out",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Wheeze",
+        "definition": "Hoarse whistling sound produced with difficulty in breathing",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Stridor",
+        "definition": "Noisy breathing due to narrowed airways",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Rhonchi",
+        "definition": "Continuous course rattling snore-like sounds in the throat or bronchi lower-pitched than a wheeze",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Rales",
+        "definition": "Crackles or coarse short discontinuous sounds heart during inhalation",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Crepitus",
+        "definition": "Crackling crunching sound produced due to presence or discharge of gas",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Dyspnea",
+        "definition": "Shortness of breath or difficulty in breathing or air hunger",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Hemoptysis",
+        "definition": "Coughing up blood or bloody sputum from the lungs or airway",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Infiltrates",
+        "definition": "Cells or body fluids that have passed into the lung tissue suggestive if pneumonia or infection of the lungs",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Pneumonia",
+        "definition": "Infection of the lung primarily involving inflammation of the alveoli",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Bronchitis",
+        "definition": "Inflammation of the air passages including trachea and bronchi",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Asthma",
+        "definition": "Chronic inflammatory disease of the airways causing them to spasm and swell periodically, leading to narrowing of the passages and difficulty in breathing",
+        "checks": 1,
+        "alt_definitions": []
+    },
+    {
+        "term": "Abdomen",
+        "definition": "Belly or region of the body between the thorax and pelvis",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Right Upper Quadrant (RUQ)",
+        "definition": "Important for liver, gallbladder",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Left Upper Quadrant (LUQ)",
+        "definition": "Important for stomach, spleen, pancreas",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Right Lower Quadrant (RLQ)",
+        "definition": "Important for right ovary, appendix, right ureter",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Left Lower Quadrant (LLQ)",
+        "definition": "Important for left ovary, left ureter",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Right Lumbar region",
+        "definition": "Middle right region important for right kidney",
+        "checks": 1,
+        "alt_definitions": []
+    },
+    {
+        "term": "Left lumbar region",
+        "definition": "Middle left region important for left kidney",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Epigastric region",
+        "definition": "top center region important for the stomach",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Esophagus",
+        "definition": "Passage or tube extending from the pharynx to the stomach",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Stomach",
+        "definition": "Enlarged sac-like portion of the digestive tract between the esophagus and small intestine",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Small intestine",
+        "definition": "Narrow proximal portion of the intestine extending from the stomach to the colon",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Large intestine",
+        "definition": "Wider distal portion of the intestine extending from the ileum to the anus",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "appendix",
+        "definition": "accessory worm-shaped pouch attached to the cecum",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "liver",
+        "definition": "largest gland of the body which secretes bile and is located in the upper right portion of the abdominal cavity",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Gallbladder",
+        "definition": "small sac present on the posterior surface of the liver which serves as a reservoir bile",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Spleen",
+        "definition": "Large lymphoid organ situated in the upper left part of the abdominal cavity which acts as a reservoir for blood cells",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Pancreas",
+        "definition": "Large elongated gland lying transversely behind the stomach whose secretions include insulin",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Diarrhea",
+        "definition": "Condition of having three or more loose or liquid bowel movements per day",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Constipation",
+        "definition": "Infrequent or difficult evacuation of feces",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Distension",
+        "definition": "State of being swollen or stretched",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Emesis",
+        "definition": "Vomiting, forcible ejection of contents of stomach through the mouth",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Nausea",
+        "definition": "Unpleasant sensation characterized by gastrointestinal distress and an urge to vomit",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Bloating",
+        "definition": "Abdominal distension due to swallowed air or intestinal gas",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Organomegaly",
+        "definition": "Visceromegaly or abnormal enlargement of an organ",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Melena",
+        "definition": "Passage of black tar-like stools containing digested blood, usually resulting from upper GI tract bleeding",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Hematochezia",
+        "definition": "Passage of bloody stools containing fresh blood, usually resulting from bleeding in the colon or rectum",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Hematemesis",
+        "definition": "Vomiting of bring red blood, indicating rapid upper GI bleeding",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Gastroesophageal Reflux Disease (GERD)",
+        "definition": "Heartburn, regurgitation of stomach contents containing acid into the esophagus",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Guarding",
+        "definition": "Involuntary or voluntary muscular contraction secondary to pain, detected during physical examination",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Rebound tenderness",
+        "definition": "pain or tenderness occurring upon the release of pressure over a part",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Gastritis",
+        "definition": "Inflammation of the lining of the stomach",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Gastroenteritis",
+        "definition": "Stomach flu or intestinal flu or inflammation due to infection or irritation of the GI tract, particularly the stomach and intestine, leading to vomiting and diarrhea",
+        "checks": 1,
+        "alt_definitions": []
+    },
+    {
+        "term": "Appendicitis",
+        "definition": "Inflammation of the appendix and is a medical emergency as it can lead to rupture of the appendix",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Cholecystitis",
+        "definition": "Inflammation of the gallbladder due to bacterial infection or the presence of gallstones",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Kidneys",
+        "definition": "Pair of organs located in the lower back area responsible for filtration of blood and secreting the waste material as urine",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Ureters",
+        "definition": "Tubes connecting the kidneys to the bladder for transmission of urine",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Urinary Bladder",
+        "definition": "Muscular sac in the anterior part of the pelvic cavity which serves as a reservoir for urine",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Urethra",
+        "definition": "Canal through which urine is discharged from the bladder to the exterior as well as semen in males",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Dysuria",
+        "definition": "Painful or difficult urination",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Hematuria",
+        "definition": "Blood in the urine",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Urinary Frequency",
+        "definition": "Urination at short intervals or having to urinate frequently",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Urinary Urgency",
+        "definition": "Sudden almost incontrollable need to urinate",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Urinary Incontinence",
+        "definition": "Inability to control urination leading to leakage of urine",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Urinary Retention",
+        "definition": "Accumulation of urine in the bladder due to inability to urinate",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Flank/CVA Tenderness",
+        "definition": "Pain elicited by tapping on each side of the mid-back area overlying the kidney",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Urinary Tract Infection (UTI)",
+        "definition": "Infection of one or more structures in the urinary system, more common in females than in males",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Pyelonephritis",
+        "definition": "Inflammation or infection of the kidneys and upper urinary tract usually resulting from bacterial infection of the bladder",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Sexually Transmitted Diseases (STD)",
+        "definition": "Venereal diseases or illnesses that get transmitted through vaginal intercourse, anal sex, oral sex, shared IV needles or blood transfusions, such as gonorrhea, chlamydia, syphilis, candidiasis, hepatitis-B, hepatitis-C, herpes, HIV, HPV and trichomoniasis",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Cranium",
+        "definition": "Skull",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Maxilla",
+        "definition": "Upper Jaw",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Mandible",
+        "definition": "Lower Jaw",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "humerus",
+        "definition": "upper arm bone",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "radius",
+        "definition": "lateral bone of the forearm, on the same side as the thumb",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "ulna",
+        "definition": "medial bone of the forearm, on the same side as the little finger",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "carpals",
+        "definition": "wrist bones",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "metacarpals",
+        "definition": "bones of the hands and knuckles",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "phalanges",
+        "definition": "bones of the fingers and toes",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "pelvic bone",
+        "definition": "hip bone",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "femur",
+        "definition": "thighbone",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "patella",
+        "definition": "kneecap",
+        "checks": 1,
+        "alt_definitions": []
+    },
+    {
+        "term": "tibia",
+        "definition": "shinbone, shankbone, medial bone of lower leg",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "fibula",
+        "definition": "calfbone, lateral bone of the lower leg",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "medial malleolus",
+        "definition": "inside part of the ankle",
+        "checks": 1,
+        "alt_definitions": []
+    },
+    {
+        "term": "lateral malleolus",
+        "definition": "outside part of the ankle",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "metatarsals",
+        "definition": "bones of the feet",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "vertebral column (spine)",
+        "definition": "backbone, which is divided into different segments",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "cervical",
+        "definition": "the first seven segments of the vertebral column",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Thoracic",
+        "definition": "the twelve vertebrae composing the middle segment of the vertebral column",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "lumbar",
+        "definition": "the five largest segments of the vertebral column in the lower back",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "sacrum",
+        "definition": "large triangular bone at the base of the spine",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "coccyx",
+        "definition": "tailbone or small triangular bone at the end of the spine",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "ligament",
+        "definition": "band or sheet of tough fibrous tissue connecting two or more bones, cartilages or other structures to provide support",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Tendon",
+        "definition": "Fibrous tough cord of connective tissue attaching a muscle to a bone or cartilage",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Achilles tendon",
+        "definition": "large tendon at the back of the heel",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Flexion",
+        "definition": "joint movement that decreases the angle between the bones",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "extension",
+        "definition": "joint movement that increase the angle between the bones",
+        "checks": 1,
+        "alt_definitions": []
+    },
+    {
+        "term": "adduction",
+        "definition": "movement which brings a limb closer to the body",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "abduction",
+        "definition": "movement which draws a limb away from the body",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "inversion",
+        "definition": "movement where the foot is tilted inwards",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "eversion",
+        "definition": "movement where the foot is tilted outwards",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "contusion",
+        "definition": "bruise, injury to a body part without a break in the skin",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Sprain",
+        "definition": "twisting joint injury when it is carried beyond its normal range of motion without fracture or dislocation",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Fracture",
+        "definition": "break, rupture or crack in a bone or cartilage",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "dislocation",
+        "definition": "displacement of a bone from its normal position at a joint",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "tenderness",
+        "definition": "pain, discomfort or soreness to touch or pressure",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "axilla",
+        "definition": "armpit or underarm",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "sciatica",
+        "definition": "pain and tenderness in the lower back and along the back of the thigh caused by compression or irritation of a sciatic nerve root",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Laceration",
+        "definition": "tear or cut of the skin",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Lesion",
+        "definition": "Injury, wound or localized pathological change in a body part",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Abrasion",
+        "definition": "Scraped skin due to friction",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Exoriation",
+        "definition": "Superficial tear of the skin",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Wound",
+        "definition": "Physical injury causing a cut or broken skin",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Burn",
+        "definition": "Injury to tissues caused by contact with heat, flame, chemicals or electricity",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Pruritis",
+        "definition": "Itching of skin",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Rash",
+        "definition": "Spotted pink or red skin eruption may be accompanied by itching",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Urticaria",
+        "definition": "Hives or appearance of slightly raised erythematous (red) patches with severe itching",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Allergy",
+        "definition": "Abnormal body reaction to a specific substance, typically leading to a rash or swelling",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Papules",
+        "definition": "Firm bumps on the skin with no visible fluid",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Jaundice",
+        "definition": "Yellow discoloration of the skin and sclera due to increase level of bile pigments in the blood resulting from liver disease",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Macules",
+        "definition": "Flat discolored spots on the skin surface",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Vesicles",
+        "definition": "Small blisters or elevations on the skin containing fluid",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Abscess",
+        "definition": "Pus pocket or enclosed collection of pus in any tissue of the body in response to infection or presence of foreign material",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Pus",
+        "definition": "Thick yellowish-white or greenish-yellow fluid made up of dead cells and tissue, formed due to infection",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Cyst",
+        "definition": "Abnormal closed sac in the body or under the skin containing fluid",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "PPD",
+        "definition": "Purified protein derivative, used in tuberculin skin sensitivity screening test for tuberculosis",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Dermatitis",
+        "definition": "Inflammation of the skin usually characterized by an itchy pink or red rash",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Shingles (Herpes Zoster)",
+        "definition": "Viral infection causing a painful rash occurring usually on the face or as a single stripe or belt of blisters wrapping around either side of the torso",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Cellulitis",
+        "definition": "Bacterial infection with inflammation, just beneath the skin surface",
+        "checks": 2,
+        "alt_definitions": []
+    },
+    {
+        "term": "Paronychia",
+        "definition": "Inflammation or infection involving the folds of skin tissue surrounding a nail",
+        "checks": 2,
+        "alt_definitions": []
+    },
+    {
+        "term": "Subungual Hematoma",
+        "definition": "Collection of blood beneath a nail usually resulting from trauma",
+        "checks": 2,
+        "alt_definitions": []
+    },
+    {
+        "term": "Sciatic Nerve",
+        "definition": "Largest nerve of the body supplying the skin of the leg and muscles of the back of the thigh and those of the leg and foot",
+        "checks": 1,
+        "alt_definitions": []
+    },
+    {
+        "term": "Paresthesia",
+        "definition": "Altered skin sensation described as numbness, burning, tingling, pins and needles, etc.",
+        "checks": 1,
+        "alt_definitions": []
+    },
+    {
+        "term": "Paresis",
+        "definition": "Partial or incomplete paralysis",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Dizziness",
+        "definition": "sensation of unsteadiness, lightheadedness, fainting or whirling",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Anaphylaxis",
+        "definition": "Rapidly progressing life-threatening allergic reaction",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Anemia",
+        "definition": "Decreased level of blood or hemoglobin in the body",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Lymphadenopathy",
+        "definition": "Abnormal enlargement of lymph nodes usually due to infection or disease",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Hypothyroidism",
+        "definition": "Under active thyroid or low production or secretion of hormones by the thyroid gland",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Hyperthyroidism",
+        "definition": "Overactive thyroid or excess production of hormones by the thyroid gland",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Diabetes Mellitus",
+        "definition": "Insufficient production of insulin by the pancreas leading to a high glucose (sugar) level in the body",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Type-I Diabetes (Juvenile Diabetes)",
+        "definition": "Failure of the body to produce sufficient insulin or insulin-dependent diabetes",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Type-II Diabetes (Adult-onset Diabetes)",
+        "definition": "Failure of body cells to respond to insulin properly or develop resistance or non-insulin dependent diabetes",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Dose",
+        "definition": "Specified quantity of medication to be administered at one time",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Route",
+        "definition": "Path by which a substance is taken into the body",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "PO",
+        "definition": "orally or by mouth",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "IV",
+        "definition": "Intravenous or into a vein",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "IM",
+        "definition": "Intramuscular or within a muscle",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "SC",
+        "definition": "Subcutaneous or directly underneath the skin",
+        "checks": 1,
+        "alt_definitions": []
+    },
+    {
+        "term": "ID",
+        "definition": "intradermal or into layer of skin",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "PR",
+        "definition": "by rectum",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "PV",
+        "definition": "by vagina",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "SL",
+        "definition": "sublingual or beneath the tongue",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Ophthalm",
+        "definition": "Ophthalmic or on the external eye",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Otic",
+        "definition": "By way of the ear",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Nasal",
+        "definition": "By way of the nose",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Inhalational",
+        "definition": "Within the respiratory tract by inhaling orally or nasally",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Topical",
+        "definition": "On the outer surface of the skin",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Frequency",
+        "definition": "Number of occurrences of a periodic process in a unit of time",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "QD",
+        "definition": "every day",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "OD",
+        "definition": "once daily",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "BID",
+        "definition": "twice a day",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "TID",
+        "definition": "thrice a day",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "QID",
+        "definition": "Four times a day",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "QW",
+        "definition": "once a week",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "BIW",
+        "definition": "Twice a week",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "TIW",
+        "definition": "Thrice a week",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "QHS",
+        "definition": "At bedtime",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "QAM",
+        "definition": "in the morning",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "QPM",
+        "definition": "At night",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Q#H",
+        "definition": "Every # hours",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "Q#1-#2",
+        "definition": "Every #1 to #2 Hours",
+        "checks": 0,
+        "alt_definitions": []
+    },
+    {
+        "term": "PRN",
+        "definition": "As needed",
+        "checks": 1,
+        "alt_definitions": []
+    }
+]

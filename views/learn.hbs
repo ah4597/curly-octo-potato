@@ -1,0 +1,92 @@
+<div class="div2" id="div2">
+    <h2>Learn -- {{{name}}} -- {{{termsLearned}}}/{{{totalTerms}}} Learned</h2>
+    
+    
+<body>
+    {{!-- <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+    <script type="module" src="learn.js">
+    </script> --}}
+    <script>
+
+        let test;
+
+        function main() {
+            //Get input field
+            const inputForm = document.getElementById("inputForm");
+
+            //Get multiple choice buttons
+            const multipleChoiceForm = document.getElementById("multipleChoiceForm");
+
+            //Toggle multiple choice display
+            const toggleSwitch = document.getElementById("toggleSwitch");
+            const mode = document.getElementById("mode");
+            toggleSwitch.onclick = (evt) => {
+                
+                if(toggleSwitch.checked) {
+                    multipleChoiceForm.style = "";
+                    inputForm.style = "display:none";
+                    mode.innerHTML = "multipleChoice";
+                } else {
+                    multipleChoiceForm.style = "display:none";
+                    inputForm.style = "";
+                    mode.innerHTML= "shortAnswer";
+                }
+            }
+            console.log("{{{answerMode}}}");
+            if("{{{answerMode}}}" == "sa") {
+                multipleChoiceForm.style = "display:none";
+                inputForm.style = "";
+                mode.innerHTML= "shortAnswer";
+            } else {
+                multipleChoiceForm.style = "";
+                inputForm.style = "display:none";
+                mode.innerHTML = "multipleChoice";
+                toggleSwitch.checked = true;
+            }
+        }
+        
+        document.addEventListener('DOMContentLoaded', main);
+
+        function updateAnswer() {
+            const hiddenInput = document.getElementById("hiddenInput");
+            const spanInput = document.getElementById("spanInput");
+
+            hiddenInput.value = spanInput.innerHTML;
+            console.log("DAFIHNDFKLJGHNSDKLNHDF");
+        }
+
+    </script>   
+    <h3 id="display">{{{term.definition}}}</h3>
+
+    <form method="POST" id="multipleChoiceForm" style="display:none">
+        {{#each multipleChoices}}
+        <button id="mc" name="answer" value="{{this}}">{{this}}</button><br>
+        {{/each}}
+        <input type="text" id="name", name="name" value="{{{name}}}" style="display:none">
+        <input type="text" id="correctDefinition", name="correctDefinition" value="{{{term.definition}}}" style="display:none">
+        <input type="text" id="correctTerm", name="correctTerm" value="{{{term.term}}}" style="display:none">
+        <input type="text" id="answerMode", name="answerMode" value="mc" style="display:none">
+    </form>
+
+    <form method="POST" id="inputForm">
+        
+        <textarea id='answer' name="answer" 
+        style = "width:100%; overflow:hidden; min-height:5px;"
+        oninput="this.style.height = ''; this.style.height = this.scrollHeight +'px'"
+        {{!-- This was the only way I could get it to resize in a decent way... onload wouldn't work --}}
+        onmousemove="this.style.height=this.scrollHeight+'px'; this.onmousemove=''"
+        ></textarea>
+        {{!-- <input  style="display:none" type="text" id="answer" name="answer" value=""> --}}
+        <input type="text" id="name", name="name" value="{{{name}}}" style="display:none">
+        <input type="text" id="correctDefinition", name="correctDefinition" value="{{{term.definition}}}" style="display:none">
+        <input type="text" id="correctTerm", name="correctTerm" value="{{{term.term}}}" style="display:none">
+        <input type="text" id="answerMode", name="answerMode" value="sa" style="display:none">
+        <button>Submit</button>
+    </form>
+
+    {{!-- <form method="POST" id="idk">
+        <button>Don't know</button>
+    </form> --}}
+
+</body>
+</div>

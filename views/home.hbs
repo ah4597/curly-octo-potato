@@ -1,0 +1,23 @@
+<div class="div2">
+    <h1>Available study sets</h1>
+
+    <body>
+        <script>
+            function main() {
+                const mcHeader = document.getElementById("multipleChoiceHeader");
+                mcHeader.style = "display:none";
+            }
+            document.addEventListener("DOMContentLoaded", main);
+        </script>
+        {{{status}}}<br><br>
+        {{{body}}}
+        <ol>
+            {{#each studySets}}
+            <li>
+                <a href="/learn/{{filename}}">{{name}}</a>
+            </li>
+            {{/each}}
+        </ol>
+
+    </body>
+</div>

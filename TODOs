@@ -1,0 +1,31 @@
+1. Pages:
+    a. Homepage 
+        i. List of all current available sets of terms/definitions.
+        ii. An option to scrape/add to a set
+
+        Clicking on a page gives us: 
+        iii. Bar containing links to other pages 
+            - Learn
+            - Flashcards
+            - Edit
+        ii. All terms and definitions in a list
+    
+    b. Learn page
+        i. Main focus?
+        ii. Gives a term or definition, depending on a switch/mode randomly out of the ones that are not complete.
+        iii. Another switch/mode for entering manually or for multiple choice
+        iv. This will always be the opposite of what is given (i.e. if term is given, then we pick/enter definition)
+        v. If what we entered matches exactly, then we give that term/definition a check.
+        vi. A term/definition is marked complete when it has 2 checks.
+        vii. When it doesn't match exactly, display the correct answer, and have an option for the the user to mark their answer as correct.
+            - Do we want to store these additional correct answers?
+        viii. An option somewhere to reset all to incomplete.
+        
+    c. Flashcards page
+        i. Display either term/definition on front depending on a switch/mode
+        ii. When clicked, it 'flips' (idk if i can do a flip lmao) over and displays the opposite.
+        iii. Swipe, or click again to move onto next card.
+        iv. A counter will be displayed (current card # / total cards)
+
+    d. Edit page
+        i. Can choose to edit/remove terms/definitions
